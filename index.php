@@ -37,7 +37,7 @@
        padding-left: 0px;
        padding-bottom: 0px;
        text-shadow: 2px 2px 4px #000000;
-       "><i>Matex</i></h1>
+       "><i><strong>Matex</strong></i></h1>
       <p style=
       "color: red;
        font-size: 30px;  
@@ -76,8 +76,8 @@
 
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
-    <h2>Services</h2>
-    <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+    <h2>Matex Services</h2>
+    <p>This is the services provided by the company Matex Plametary Drive International.</p>
   </div><!-- End Section Title -->
 
   <div class="container">
@@ -88,7 +88,7 @@
         <div class="service-item d-flex position-relative h-100">
           <i class="bi bi-briefcase icon flex-shrink-0"></i>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Lorem Ipsum</a></h4>
+            <h4 class="title"><a href="service1-details.html" class="stretched-link">Plastic Material Injection</a></h4>
             <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
           </div>
         </div>
@@ -98,7 +98,7 @@
         <div class="service-item d-flex position-relative h-100">
           <i class="bi bi-card-checklist icon flex-shrink-0"></i>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Dolor Sitema</a></h4>
+            <h4 class="title"><a href="service2-details.html" class="stretched-link">Metal Clamp Forming</a></h4>
             <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
           </div>
         </div>
@@ -142,7 +142,8 @@
             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
           </div>
         </div>
-      </div><!-- End Service Item -->
+      </div>
+      <!-- End Service Item -->
 
     </div>
 
@@ -315,14 +316,47 @@
 
 </section><!-- /Portfolio Section -->
 
+<div class="container">
+    <div style="max-width: 500px;margin: 0 auto;   " class="headbox">
+      <h1 style=
+      "color:rgb(0, 0, 0);
+       font-size: 20px;  
+       text-align: center; s
+       padding-top: 0px;
+       padding-left: 0px;
+       padding-bottom: 0px;
+     
+       "><strong>Useful Links</strong></h1>
+      <p style=
+      "color: red;
+       font-size: 20px;  
+       text-align: center; 
+       padding-top: 0px;
+       padding-left: 0px;
+       padding-bottom: 20px;
+    
+       ">       
+            <a href="company.php">Company</a> <br>
+            <a href="department.php">Department</a> <br>
+            <a href="history.php">History</a> <br>
+            <a href="machine.php">Machine</a> <br>
+            <a href="customer.php">Customers</a> <br>
+            <a href="contact.php">Contact Us</a> <br>
+          </p>
+        </div>
+    </div>
 
+<div class="col-lg-2 col-md-3 footer-links">
+          <h4></h4>
 
-
+        </div>
 
 
 
 
   <footer>
+
+
 
 
     <h1 style=
@@ -335,9 +369,6 @@
        text-shadow: 2px 2px 4px #000000;
        "><i></i></h1>
   </nav>
-
-
-
 
 
     <p>&copy; <?php echo date("Y"); ?> <?php echo $companyName; ?> All rights reserved.</p>
