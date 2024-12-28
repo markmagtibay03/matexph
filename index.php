@@ -330,7 +330,7 @@
       <p style=
       "color: red;
        font-size: 20px;  
-       text-align: center; 
+       text-align: center;
        padding-top: 0px;
        padding-left: 0px;
        padding-bottom: 20px;
