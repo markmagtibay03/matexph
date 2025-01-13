@@ -185,7 +185,7 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-      <p style= "color: black;font-size: 18px; text-indent: 10%;margin: 0 auto;letter-spacing: 2px;word-spacing: 10px; text-align: justify; padding-top: 100px;padding-bottom: 50px;  max-width: 800px;
+      <!-- <p style= "color: black;font-size: 18px; text-indent: 10%;margin: 0 auto;letter-spacing: 2px;word-spacing: 10px; text-align: justify; padding-top: 100px;padding-bottom: 50px;  max-width: 800px;
        "></p>
 
       <div class="photo">
@@ -207,7 +207,7 @@ tr:nth-child(even) {
       </div>
 
       <p style= "color: black;font-size: 18px; margin: 0 auto;letter-spacing: 2px;word-spacing: 10px; text-align: justify; padding-top: 50px;padding-bottom: 20px;  max-width: 800px;
-       "></p>
+       "></p> -->
 
 
 
