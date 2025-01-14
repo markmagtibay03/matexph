@@ -79,7 +79,7 @@ tr:nth-child(even) {
 
 <h1 style=
       "color: rgb(0, 172, 149);
-       font-size: 80px;  
+       font-size: 50px;  
        text-align: center; 
        padding-top: 40px;
        padding-left: 0px;

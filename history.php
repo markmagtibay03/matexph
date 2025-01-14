@@ -64,7 +64,7 @@
 
     <h1 style=
       "color: rgb(0, 172, 149);
-       font-size: 80px;  
+       font-size: 50px;  
        text-align: center; 
        padding-top: 40px;
        padding-left: 0px;
@@ -75,7 +75,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -91,7 +91,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -114,7 +114,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -130,7 +130,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -153,7 +153,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -169,7 +169,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -192,7 +192,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -208,7 +208,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -231,7 +231,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -247,7 +247,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -270,7 +270,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -287,7 +287,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -310,7 +310,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -326,7 +326,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -349,7 +349,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -365,7 +365,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -388,7 +388,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -404,7 +404,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -427,7 +427,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -443,7 +443,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -466,7 +466,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -482,7 +482,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -505,7 +505,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -521,7 +521,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -544,7 +544,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -560,7 +560,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -583,7 +583,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -599,7 +599,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -622,7 +622,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -638,7 +638,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -661,7 +661,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -678,7 +678,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -701,7 +701,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -718,7 +718,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
@@ -741,7 +741,7 @@
 <div style="max-width: 1000px; margin: 0 auto; padding-bottom: 0px;  " class="main">
 <div style="max-width: 800px;margin: 0 auto; " class="headbox">
 <p style= "color: black;
-       font-size: 30px; 
+       font-size: 25px; 
 	     margin: 0 auto;
        letter-spacing: 1px;
        word-spacing: 5px; 
@@ -758,7 +758,7 @@
 <div style="max-width: 300px;margin: 0 auto;" class="headbox">
 <h1 style=
       "color: white;
-       font-size: 50px;  
+       font-size: 40px;  
        text-align: center; 
        padding-top: 0px;
        padding-left: 0px;
